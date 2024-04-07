@@ -5,6 +5,10 @@
 
 This is the official implementaion of paper [***Learning-Based Pose Estimation of Non-Cooperative Spacecrafts with Uncertainty Prediction***](https://www.mdpi.com/2226-4310/9/10/592), which is accepted in ***Aerospace 2022***. This repository contains Pytorch training code and evaluation code.
 
+<div align=center>
+<img src="./framework.png" width = "600" alt="The framework of our method." align=center />
+</div>
+
 # Spacecrafts-6D-Pose-Estimation
 Learning-Based Pose Estimation of Non-Cooperative Spacecrafts with Uncertainty Prediction
 ## Dataset
