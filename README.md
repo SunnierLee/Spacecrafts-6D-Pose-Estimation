@@ -9,8 +9,8 @@ This is the official implementaion of paper [***Learning-Based Pose Estimation o
 <img src="./framework.png" width = "600" alt="The framework of our method." align=center />
 </div>
 
-# Spacecrafts-6D-Pose-Estimation
-Learning-Based Pose Estimation of Non-Cooperative Spacecrafts with Uncertainty Prediction
+<p align="center">The framework of our method.</p>
+
 ## Dataset
 The dataset SPEED used in our paper can be found at https://kelvins.esa.int/satellite-pose-estimation-challenge/.
 ## Pretrained Model
